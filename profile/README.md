@@ -14,6 +14,7 @@ As a comprehensive Consumer App Infrastructure, Polycruz supports a wide range o
 
 [![Website](https://img.shields.io/badge/Website-polycruz.io-blue?style=flat&logo=globe)](https://www.polycruz.io/)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Polycruz9-yellow)](https://huggingface.co/Polycruz9)
-[![GitHub](https://img.shields.io/badge/GitHub-Polycruz-181717?style=flat&logo=github)](https://github.com/Polycruz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/company/polycruz)
+
 
                         
