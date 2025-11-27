@@ -8,7 +8,7 @@
                                                                                                                                                                                                   
 </pre>                                               
 
-[Polycruz](https://www.polycruz.io/) is an AI-powered, no-code Web3 infrastructure platform that lets anyone—creators, enterprises, and blockchain networks—build, launch, and scale decentralized applications in under 48 hours without writing a single line of code.
+[Polycruz](https://www.polycruz.io/) is an AI-powered, no-code Web3 infrastructure platform that lets anyone—creators, enterprises, and blockchain networks-build, launch, and scale decentralized applications in under 48 hours without writing a single line of code.
 
 It simplifies the entire Web3 stack by offering plug-and-play tools across NFTs, DeFi, RWA, Gaming, Social, and Launchpad, complete with pre-built frontend dApps and backend integration.
 Polycruz removes the technical, financial, and operational barriers that make Web3 slow, expensive, and hard to adopt—making it as simple as using Shopify or Canva, but for blockchain.
